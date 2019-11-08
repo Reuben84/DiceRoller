@@ -1,3 +1,12 @@
+/*Name: Reuben Omnou
+Student ID: 1819420
+This application is Part 1 of Basic Android Skills
+The application rolls a dice and generates a number 1-6
+The user is able to input a number 1-6 to try and guess what number the dice will roll
+If the user guesses correctly a message will be displayed saying congratulations and the user's
+score will increase, telling them how many correct guesses they have made
+*/
+
 package com.example.diceroller;
 
 import android.os.Bundle;
